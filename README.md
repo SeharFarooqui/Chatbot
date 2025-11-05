@@ -93,11 +93,7 @@ chatbot/
 ├── .gitignore
 └── README.md
 
-🖼️ Preview
 
-(You can add a screenshot of your chatbot UI here)
-Example:
-![Chatbot UI Screenshot](screenshot.png)
 
 🤝 Contributing
 
